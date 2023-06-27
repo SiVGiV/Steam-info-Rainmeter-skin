@@ -1,0 +1,68 @@
+----Common Currencys & Easy access for my m8s------
+
+USD - US Dollar
+EUR - Euro
+GBP - British Pound
+ILS - Israeli Shekel
+NOK - Norwegian Krone
+SEK - Swedish Krona
+
+
+
+----All Currencys---------
+
+ARS - Argentine Peso
+AUD - Australian Dollar
+BGN - Bulgarian Lev
+BHD - Bahraini Dinar
+BND - Bruneian Dollar
+BRL - Brazilian Real
+BWP - Botswana Pula
+CAD - Canadian Dollar
+CHF - Swiss Franc
+CLP - Chilean Peso
+CNY - Chinese Yuan Renminbi
+COP - Colombian Peso
+CZK - Czech Koruna
+DKK - Danish Krone
+EUR - Euro
+GBP - British Pound
+HKD - Hong Kong Dollar
+HRK - Croatian Kuna
+HUF - Hungarian Forint
+IDR - Indonesian Rupiah
+ILS - Israeli Shekel
+INR - Indian Rupee
+IRR - Iranian Rial
+ISK - Icelandic Krona
+JPY - Japanese Yen
+KRW - South Korean Won
+KWD - Kuwaiti Dinar
+KZT - Kazakhstani Tenge
+LKR - Sri Lankan Rupee
+LTL - Lithuanian Litas
+LVL - Latvian Lat
+LYD - Libyan Dinar
+MUR - Mauritian Rupee
+MXN - Mexican Peso
+MYR - Malaysian Ringgit
+NOK - Norwegian Krone
+NPR - Nepalese Rupee
+NZD - New Zealand Dollar
+OMR - Omani Rial
+PHP - Philippine Peso
+PKR - Pakistani Rupee
+PLN - Polish Zloty
+QAR - Qatari Riyal
+RON - Romanian New Leu
+RUB - Russian Ruble
+SAR - Saudi Arabian Riyal
+SEK - Swedish Krona
+SGD - Singapore Dollar
+THB - Thai Baht
+TRY - Turkish Lira
+TTD - Trinidadian Dollar
+TWD - Taiwan New Dollar
+USD - US Dollar
+VEF - Venezuelan Bolivar
+ZAR - South African Rand
